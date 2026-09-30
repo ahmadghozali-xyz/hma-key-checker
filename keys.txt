@@ -1,0 +1,8 @@
+# Satu key per baris. Baris kosong dan baris berawalan # diabaikan.
+# Contoh:
+# 8UD6MX-2WCYYJ-5FC5PE
+# DHMMTF-QGDG8J-584F52
+
+8UD6MX-2WCYYJ-5FC5PE
+DHMMTF-QGDG8J-584F52
+L55V52-8LJLPJ-5GLGJN
